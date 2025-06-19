@@ -1,0 +1,13 @@
+# Ignore build output and temporary files
+bin/
+obj/
+*.exe
+*.dll
+*.log
+*.user
+*.suo
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db

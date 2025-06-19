@@ -1,0 +1,15 @@
+C:\Users\KIIT\Downloads\Cognizant-DN-4.0\Week1_DataStructures\2_Ecommerce_Search_Function\Code\bin\Debug\net9.0\Code.exe
+C:\Users\KIIT\Downloads\Cognizant-DN-4.0\Week1_DataStructures\2_Ecommerce_Search_Function\Code\bin\Debug\net9.0\Code.deps.json
+C:\Users\KIIT\Downloads\Cognizant-DN-4.0\Week1_DataStructures\2_Ecommerce_Search_Function\Code\bin\Debug\net9.0\Code.runtimeconfig.json
+C:\Users\KIIT\Downloads\Cognizant-DN-4.0\Week1_DataStructures\2_Ecommerce_Search_Function\Code\bin\Debug\net9.0\Code.dll
+C:\Users\KIIT\Downloads\Cognizant-DN-4.0\Week1_DataStructures\2_Ecommerce_Search_Function\Code\bin\Debug\net9.0\Code.pdb
+C:\Users\KIIT\Downloads\Cognizant-DN-4.0\Week1_DataStructures\2_Ecommerce_Search_Function\Code\obj\Debug\net9.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Downloads\Cognizant-DN-4.0\Week1_DataStructures\2_Ecommerce_Search_Function\Code\obj\Debug\net9.0\Code.AssemblyInfoInputs.cache
+C:\Users\KIIT\Downloads\Cognizant-DN-4.0\Week1_DataStructures\2_Ecommerce_Search_Function\Code\obj\Debug\net9.0\Code.AssemblyInfo.cs
+C:\Users\KIIT\Downloads\Cognizant-DN-4.0\Week1_DataStructures\2_Ecommerce_Search_Function\Code\obj\Debug\net9.0\Code.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\Cognizant-DN-4.0\Week1_DataStructures\2_Ecommerce_Search_Function\Code\obj\Debug\net9.0\Code.sourcelink.json
+C:\Users\KIIT\Downloads\Cognizant-DN-4.0\Week1_DataStructures\2_Ecommerce_Search_Function\Code\obj\Debug\net9.0\Code.dll
+C:\Users\KIIT\Downloads\Cognizant-DN-4.0\Week1_DataStructures\2_Ecommerce_Search_Function\Code\obj\Debug\net9.0\refint\Code.dll
+C:\Users\KIIT\Downloads\Cognizant-DN-4.0\Week1_DataStructures\2_Ecommerce_Search_Function\Code\obj\Debug\net9.0\Code.pdb
+C:\Users\KIIT\Downloads\Cognizant-DN-4.0\Week1_DataStructures\2_Ecommerce_Search_Function\Code\obj\Debug\net9.0\Code.genruntimeconfig.cache
+C:\Users\KIIT\Downloads\Cognizant-DN-4.0\Week1_DataStructures\2_Ecommerce_Search_Function\Code\obj\Debug\net9.0\ref\Code.dll
