@@ -7,6 +7,10 @@ obj/
 *.user
 *.suo
 *.tmp
+*.pdb
+*.cache
+*.vs/
+.vscode/
 
 # Ignore system files
 .DS_Store
