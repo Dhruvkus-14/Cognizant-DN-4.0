@@ -15,3 +15,10 @@ obj/
 # Ignore system files
 .DS_Store
 Thumbs.db
+
+# Ignore SQL backup files
+*.bak
+
+# Ignore SQL Server generated files
+*.mdf
+*.ldf
