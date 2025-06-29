@@ -16,6 +16,10 @@ MagicFilesSolution/
 ├── DirectoryExplorer.Tests/
 │ └── DirectoryExplorerTests.cs
 
+## In simple to access DirectoryExplorer.cs => MagicFilesSolution/MagicFilesLib/DirectoryExplorer.cs
+## In simple to access DirectoryExplorerTests.cs => DirectoryExplorer.Tests/DirectoryExplorer.cs
+
+
 ## 📸 Output Screenshots
 ## For Build MagicFilesLib
 ![Output](./Output/result1.jpg)
