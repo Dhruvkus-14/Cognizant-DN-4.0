@@ -54,7 +54,7 @@ To understand and implement **Unit Testing** using the NUnit framework in C# by 
 
 ## ✅ Output
 
-![Test Result Screenshot](./Output/test-result.jpg)
+![Test Result Screenshot](./Output/result.jpg)
 
 ---
 
