@@ -16,6 +16,9 @@ CustomerCommSolution/
 ├── CustomerComm.Tests/
 │ └── CustomerCommTests.cs
 
+## In simple to access MailSender.cs => CustomerCommSolution/CustomerCommLib/MailSender.cs
+## In simple to access CustomerCommTests.cs => CustomerComm.Tests/CustomerCommTests.cs
+
 ## 📸 Output Screenshots
 ## For Build CustomerCommLib and CustomerCommTests
 ![Output](./Output/result1.jpg)
