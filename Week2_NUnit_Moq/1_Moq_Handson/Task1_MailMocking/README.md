@@ -7,6 +7,7 @@ To demonstrate how to write testable code by mocking external email sending func
 - .NET 6 / .NET Framework
 - C#
 - NUnit
+- Nunit3TestAdapter
 - Moq
 
 ## 📁 Project Structure
