@@ -7,6 +7,7 @@ To demonstrate unit testing of file-system-dependent logic using Moq by mocking 
 - .NET 6 / .NET Framework
 - C#
 - NUnit
+- Nunit3TestAdapter
 - Moq
 
 ## 📁 Project Structure
