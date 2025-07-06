@@ -1,4 +1,4 @@
-﻿using Lab1_UnderstandORM.Models;
+﻿namespace Models;
 
 public class Product
 {
