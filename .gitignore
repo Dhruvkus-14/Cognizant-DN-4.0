@@ -22,3 +22,10 @@ Thumbs.db
 # Ignore SQL Server generated files
 *.mdf
 *.ldf
+
+*.xlsx
+*.pdf
+~$*
+desktop.ini
+EFCore8_HOL/
+1_NUnit_Handson/
