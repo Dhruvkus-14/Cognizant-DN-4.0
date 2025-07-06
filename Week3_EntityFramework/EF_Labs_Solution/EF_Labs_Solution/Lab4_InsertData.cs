@@ -27,6 +27,6 @@ public class Lab4_InsertData
 
         await context.SaveChangesAsync();
 
-        Console.WriteLine("✅ Inserted categories and products into database.");
+        Console.WriteLine(" Inserted categories and products into database.");
     }
 }

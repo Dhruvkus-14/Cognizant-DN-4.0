@@ -9,7 +9,7 @@ public class Lab5_RetrieveData
 
         using var context = new AppDbContext();
 
-        // 1️⃣ Retrieve All Products
+        
         var products = await context.Products
             .Include(p => p.Category)
             .ToListAsync();
@@ -18,11 +18,11 @@ public class Lab5_RetrieveData
         foreach (var p in products)
             Console.WriteLine($"- {p.Name} (₹{p.Price}) - Category: {p.Category?.Name}");
 
-        // 2️⃣ Find Product by ID
+        
         var productById = await context.Products.FindAsync(1);
         Console.WriteLine($"\nProduct with ID 1: {productById?.Name ?? "Not Found"}");
 
-        // 3️⃣ First Expensive Product (Price > 50000)
+        
         var expensiveProduct = await context.Products
             .FirstOrDefaultAsync(p => p.Price > 50000);
 
