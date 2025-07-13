@@ -36,8 +36,8 @@ Cognizant-DN-4.0/
 │       └── Lab5_QueryData/
 │
 ├── Week4/
-│   ├── 1_WebApi_Handson/          # Intro to ASP.NET Core Web API
-│   ├── 2_WebApi_Handson/          # Routing, Swagger, and Postman usage
-│   ├── 3_WebApi_Handson/          # Custom filters and exception handling
-│   ├── 4_WebApi_Handson/          # CRUD operations on Employee entity
-│   ├── 5_WebApi_Handson/          # JWT Authentication + CORS + Role-based authorization
+│   ├── 1_WebApi_Handson/          
+│   ├── 2_WebApi_Handson/          
+│   ├── 3_WebApi_Handson/          
+│   ├── 4_WebApi_Handson/         
+│   ├── 5_WebApi_Handson/         
