@@ -13,24 +13,32 @@ This repository is organized week-wise to maintain clarity, traceability, and mo
 ```bash
 Cognizant-DN-4.0/
 │
-├── Week1_DataStructures/          # Exercises based on core Data Structures in C#
+├── Week1_DataStructures/
 │
-├── Week1_DesignPatterns/          # Implementation of key Design Patterns
+├── Week1_DesignPatterns/
 │   └── Singleton, Factory Method, etc.
 │
-├── Week2_SQL/                     # T-SQL and Stored Procedures with SQL Server
+├── Week2_SQL/
 │   └── Employee Management, Queries, Joins, Procedures
 │
-├── Week2_NUnit_Moq/               # NUnit and Moq Unit Testing
-│   ├── 1_NUnit_Handson/           # Hands-on using NUnit
-│   └── 1_Moq_Handson/             # Advanced Unit Testing with Moq mocking
-│       ├── Task1_MailMocking/     # Mock SMTP Mail Sender service
-│       └── Task2_FileMocking/     # Mock file system using IDirectory abstraction
+├── Week2_NUnit_Moq/
+│   ├── 1_NUnit_Handson/
+│   └── 1_Moq_Handson/
+│       ├── Task1_MailMocking/
+│       └── Task2_FileMocking/
 │
-├── Week3_EntityFramework/         # Entity Framework Core 8.0 Hands-on Labs
+├── Week3_EntityFramework/
 │   └── EFCore8_HOL/
-│       ├── Lab1_UnderstandORM/        # Intro to ORM and EF Core features
-│       ├── Lab2_SetupDbContext/       # Creating models and configuring DbContext
-│       ├── Lab3_Migrations/           # Generating and applying EF Core migrations
-│       ├── Lab4_InsertData/           # Inserting data using EF Core
-│       └── Lab5_QueryData/            # Querying data with LINQ and EF Core
+│       ├── Lab1_UnderstandORM/
+│       ├── Lab2_SetupDbContext/
+│       ├── Lab3_Migrations/
+│       ├── Lab4_InsertData/
+│       └── Lab5_QueryData/
+│
+├── Week4/
+│   ├── 1_WebApi_Handson/          # Intro to ASP.NET Core Web API
+│   ├── 2_WebApi_Handson/          # Routing, Swagger, and Postman usage
+│   ├── 3_WebApi_Handson/          # Custom filters and exception handling
+│   ├── 4_WebApi_Handson/          # CRUD operations on Employee entity
+│   ├── 5_WebApi_Handson/          # JWT Authentication + CORS + Role-based authorization
+│   └── 6_WebApi_Handson/          # (If present for future labs)
