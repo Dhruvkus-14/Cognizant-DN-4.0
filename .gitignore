@@ -29,3 +29,6 @@ Thumbs.db
 desktop.ini
 EFCore8_HOL/
 1_NUnit_Handson/
+
+# Ignore IDE/editor folders
+.vscode/
