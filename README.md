@@ -41,4 +41,3 @@ Cognizant-DN-4.0/
 │   ├── 3_WebApi_Handson/          # Custom filters and exception handling
 │   ├── 4_WebApi_Handson/          # CRUD operations on Employee entity
 │   ├── 5_WebApi_Handson/          # JWT Authentication + CORS + Role-based authorization
-│   └── 6_WebApi_Handson/          # (If present for future labs)
