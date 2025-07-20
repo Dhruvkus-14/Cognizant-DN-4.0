@@ -40,4 +40,13 @@ Cognizant-DN-4.0/
 │   ├── 2_WebApi_Handson/          
 │   ├── 3_WebApi_Handson/          
 │   ├── 4_WebApi_Handson/         
-│   ├── 5_WebApi_Handson/         
+│   └── 5_WebApi_Handson/ 
+│
+├── Week5/
+│   ├── JwtAuthDemoAPI/
+│   ├── KafkaConsoleChat/
+│   └── KafkaWindowsChat/
+│
+├── .gitignore
+├── README.md
+└── SECURITY.md

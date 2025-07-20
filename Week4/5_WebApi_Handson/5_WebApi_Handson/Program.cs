@@ -38,7 +38,6 @@ builder.Services.AddAuthentication(options =>
         IssuerSigningKey = symmetricSecurityKey
     };
 
-    // Optional: Add logging to help debug issues
     options.Events = new JwtBearerEvents
     {
         OnAuthenticationFailed = context =>

@@ -24,7 +24,6 @@ Thumbs.db
 *.ldf
 
 *.xlsx
-*.pdf
 ~$*
 desktop.ini
 EFCore8_HOL/
