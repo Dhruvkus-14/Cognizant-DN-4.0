@@ -46,7 +46,7 @@ Cognizant-DN-4.0/
 │   ├── JwtAuthDemoAPI/
 │   ├── KafkaConsoleChat/
 │   └── KafkaWindowsChat/
-
+|
 ├── Week6/
 │   ├── 1_ReactJS-HOL_myfirstreact/
 │   ├── 2_ReactJS-HOL_studentapp/
@@ -54,6 +54,14 @@ Cognizant-DN-4.0/
 │   ├── 4_ReactJS-HOL_blogapp/
 │   └── 5_ReactJS-HOL_cohortstracker/
 │
+├── Week7/
+│   ├── 9_ReactJS-HOL_cricketapp/
+│   ├── 10_ReactJS-HOL_officespacerentalapp/
+│   ├── 11_ReactJS-HOL_eventexamplesapp/
+│   ├── 12_ReactJS-HOL_ticketbookingapp/
+│   └── 13_ReactJS-HOL_bloggerapp/
+|
+|
 ├── .gitignore
 ├── README.md
 └── SECURITY.md
